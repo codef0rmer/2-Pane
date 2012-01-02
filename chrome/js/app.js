@@ -12,8 +12,7 @@ function getNavigation() {
     navigation.push($('#top-bar'));
     navigation.push($('#1hn-add-subscription-section'));
     navigation.push($('#sections-header'));
-    navigation.push($('#viewer-header'));
-    navigation.push($('#viewer-top-controls'));
+    navigation.push($('#gb'));
     return navigation;
 }
 
